@@ -1,6 +1,11 @@
-# Mastercard-Financial-Literacy-Project
-Developed a mobile-first web game for Mastercard focused on financial literacy education for young adults and adults seeking to learn or strengthen personal finance skills. 
+## Description
 
-```
+  The **Masterclass** project is an educational digital game developed by the our team (INTELI related) in partnership with Mastercard, with the primary objective of addressing a significant challenge within the Brazilian economic landscape: low financial literacy. As millions of people have recently gained access to the national financial system—particularly young adults, informal workers, and small business owners—a concerning gap has emerged. Many of these new users now have access to credit lines, payment cards, and banking tools without the necessary knowledge to understand essential concepts such as interest rates, inflation, and financial planning. In response to this challenge, Masterclass was conceived as an innovative solution that transforms financial education, often perceived as complex or overly theoretical, into a dynamic and immersive learning experience.
+
+  Developed as a narrative-based trivia game and optimized for WebMobile platforms (Single-player), the game places users at the center of their own financial journey. The storyline is structured around the **"Journey of Life"**, a progression path composed of five thematic islands representing different stages of life, from youth to retirement. Throughout these islands, players encounter everyday situations and realistic dilemmas that require conscious financial decisions involving credit, debit, and prepaid cards. This narrative structure was carefully designed to foster cultural and demographic identification, reflecting the real socioeconomic challenges faced by the population.
+
+  The core gameplay mechanic is based on a cause-and-effect simulation through a conditional progression system. Every financial decision made by the player directly impacts their symbolic in-game balance. Correct choices and responsible financial behavior increase the balance and unlock progression, while mistakes create opportunities for educational intervention. At these moments, the game introduces **Wink**, a mentor NPC who provides immediate feedback and financial guidance. This ecosystem creates a safe-to-fail environment, allowing users to experience the consequences of poor financial planning, such as accumulating revolving credit interest, without facing any real-world financial risks.
+
 https://graduacao.pages.git.inteli.edu.br/2026-1a/t24/g04
-```
+
+(Link to the playable web version)
